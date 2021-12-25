@@ -1,1 +1,1 @@
-This work was done as a group project. The authors of each part are mentioned in the README file and in the code itself as comments.
+This work was done as a group project. The authors of each part are mentioned in the README file and in the code itself as comments. 
