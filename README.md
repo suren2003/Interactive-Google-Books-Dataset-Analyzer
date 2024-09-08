@@ -4,7 +4,7 @@ The project can be reached at:
 Suren Kulasegaram  
 Email: surenkulasegaram@cmail.carleton.ca
 
-README.md written by Jeremy Hornung (101219284)
+README.md written by Jeremy Hornung
 ## Description:
 ___
 * The project contains a single program which allows the user to load a Google Books dataset (CSV file) and then analyze the dataset in a variety of different ways.
